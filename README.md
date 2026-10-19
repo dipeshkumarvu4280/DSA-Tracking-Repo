@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
