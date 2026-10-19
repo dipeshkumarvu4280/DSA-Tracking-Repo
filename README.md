@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0485-max-consecutive-ones) |
+| [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0189-rotate-array) |
+| [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
