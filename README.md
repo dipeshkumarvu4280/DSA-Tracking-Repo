@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
