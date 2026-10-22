@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0053-maximum-subarray) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
