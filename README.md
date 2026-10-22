@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 ## Matrix
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
 ## Counting
