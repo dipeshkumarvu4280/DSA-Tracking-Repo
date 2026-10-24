@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
