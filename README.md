@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0844-backspace-string-compare) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
