@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 | [0930-binary-subarrays-with-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0930-binary-subarrays-with-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0189-rotate-array) |
+| [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0844-backspace-string-compare) |
 ## Matrix
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0217-contains-duplicate) |
+| [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
 ## Counting
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -155,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
