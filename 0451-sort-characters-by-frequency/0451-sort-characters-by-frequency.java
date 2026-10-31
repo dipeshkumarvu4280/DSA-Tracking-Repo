@@ -10,7 +10,7 @@ class Solution {
         List<Map.Entry<Character, Integer>> list = new ArrayList<>(map.entrySet());
 
         // Sort by frequency (descending)
-        list.sort((a, b) -> b.getValue() - a.getValue());
+        list.sort((a, b) -> b.getValue() - a.getValue());//comparator rule
 
         StringBuilder ans = new StringBuilder();
 
