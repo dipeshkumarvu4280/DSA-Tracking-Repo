@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
 ## Counting
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -166,5 +170,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
