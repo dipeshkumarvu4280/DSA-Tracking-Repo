@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0304-range-sum-query-2d-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
 ## Counting
