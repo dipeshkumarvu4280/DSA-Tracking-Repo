@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1991-find-the-middle-index-in-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
