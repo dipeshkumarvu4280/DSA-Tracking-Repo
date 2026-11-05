@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1991-find-the-middle-index-in-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0844-backspace-string-compare) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
