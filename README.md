@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
