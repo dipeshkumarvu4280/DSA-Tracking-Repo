@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1991-find-the-middle-index-in-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2364-count-number-of-bad-pairs](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2364-count-number-of-bad-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [1051-height-checker](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1051-height-checker) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2364-count-number-of-bad-pairs](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2364-count-number-of-bad-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
