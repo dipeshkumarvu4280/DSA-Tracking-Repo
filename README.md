@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0048-rotate-image) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0076-minimum-window-substring) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0523-continuous-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
