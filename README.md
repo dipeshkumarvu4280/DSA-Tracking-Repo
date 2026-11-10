@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
