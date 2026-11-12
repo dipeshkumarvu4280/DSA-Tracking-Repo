@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1189-maximum-number-of-balloons) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2364-count-number-of-bad-pairs](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2364-count-number-of-bad-pairs) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0844-backspace-string-compare) |
+| [1189-maximum-number-of-balloons](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
