@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2364-count-number-of-bad-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0844-backspace-string-compare) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
