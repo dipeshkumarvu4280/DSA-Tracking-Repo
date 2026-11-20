@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2364-count-number-of-bad-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
