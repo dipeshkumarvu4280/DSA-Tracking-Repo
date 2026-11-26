@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2364-count-number-of-bad-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/dipeshkumarvu4280/DSA-Tracking-Repo/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Stack
 |  |
 | ------- |
